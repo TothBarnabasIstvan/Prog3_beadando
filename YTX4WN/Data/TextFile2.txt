@@ -1,0 +1,18 @@
+﻿Számítógépes hibakeresés;10;0
+Téli/Nyári kerékcsere;30;0
+Defektjavítás;30;1000
+Olajcsere;20;15000
+Szűrőcsere;40;6000
+Kuplungtárcsa csere;180;20000
+Fékbetét csere;60;13000
+Fagyálló feltöltés;15;7000
+Izzócsere;20;3000
+Számítógépes hibakeresés;10;0
+Téli/Nyári kerékcsere;30;0
+Defektjavítás;30;1000
+Olajcsere;20;15000
+Szűrőcsere;40;6000
+Kuplungtárcsa csere;180;20000
+Fékbetét csere;60;13000
+Fagyálló feltöltés;15;7000
+Izzócsere;20;3000
